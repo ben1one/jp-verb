@@ -29,7 +29,7 @@ export default class Start extends React.PureComponent<Props> {
   state: State = {
     labels: [],
     conjugations: [],
-    count: 3,
+    count: 1,
     modalVisible: false,
     modalVisible2: false,
   }

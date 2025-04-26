@@ -90,6 +90,7 @@ export default class Start extends React.PureComponent<Props> {
         </FormField>
         <FormField label="单词个数：">
           <Radio.Group value={this.state.count} buttonStyle="solid" onChange={this.handleCountChange}>
+            <Radio.Button value={1}>1</Radio.Button>
             <Radio.Button value={3}>3</Radio.Button>
             <Radio.Button value={5}>5</Radio.Button>
             <Radio.Button value={7}>7</Radio.Button>

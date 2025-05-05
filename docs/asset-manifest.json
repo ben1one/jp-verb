@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/jp-verb/static/js/main.844090d6.chunk.js",
+    "main.js.map": "/jp-verb/static/js/main.844090d6.chunk.js.map",
+    "runtime-main.js": "/jp-verb/static/js/runtime-main.eea8a0d3.js",
+    "runtime-main.js.map": "/jp-verb/static/js/runtime-main.eea8a0d3.js.map",
+    "static/js/2.cb880a47.chunk.js": "/jp-verb/static/js/2.cb880a47.chunk.js",
+    "static/js/2.cb880a47.chunk.js.map": "/jp-verb/static/js/2.cb880a47.chunk.js.map",
+    "static/js/3.7ec1b03a.chunk.js": "/jp-verb/static/js/3.7ec1b03a.chunk.js",
+    "static/js/3.7ec1b03a.chunk.js.map": "/jp-verb/static/js/3.7ec1b03a.chunk.js.map",
+    "static/js/4.ea782fe7.chunk.js": "/jp-verb/static/js/4.ea782fe7.chunk.js",
+    "static/js/4.ea782fe7.chunk.js.map": "/jp-verb/static/js/4.ea782fe7.chunk.js.map",
+    "index.html": "/jp-verb/index.html",
+    "precache-manifest.cb07f1debae6882fa341836ce282395c.js": "/jp-verb/precache-manifest.cb07f1debae6882fa341836ce282395c.js",
+    "service-worker.js": "/jp-verb/service-worker.js",
+    "static/js/2.cb880a47.chunk.js.LICENSE.txt": "/jp-verb/static/js/2.cb880a47.chunk.js.LICENSE.txt",
+    "static/media/mini.jpg": "/jp-verb/static/media/mini.de265e25.jpg",
+    "static/media/qrcode.png": "/jp-verb/static/media/qrcode.d8f18b9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea8a0d3.js",
+    "static/js/2.cb880a47.chunk.js",
+    "static/js/main.844090d6.chunk.js"
+  ]
+}

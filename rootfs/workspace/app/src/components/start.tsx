@@ -7,7 +7,7 @@ import Config from './config';
 import { FormDataType } from './types'
 import qrcodeImg from './images/qrcode.png'
 import miniImg from './images/mini.jpg'
-import timer from '../lib/timer'
+// import timer from '../lib/timer'
 
 
 const FormField = (props: {label?: string, children: any}) => {

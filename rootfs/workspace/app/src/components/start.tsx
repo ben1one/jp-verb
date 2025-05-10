@@ -104,7 +104,7 @@ export default class Start extends React.PureComponent<Props> {
           <Button type="primary" onClick={this.handleSubmit}>开始</Button>
         </Flex>
 
-        <Text onClick={this.showModal} textAlign="center" mt={1}>意见反馈</Text>
+        {/* <Text onClick={this.showModal} textAlign="center" mt={1}>意见反馈</Text> */}
         <Modal
           visible={this.state.modalVisible}
           destroyOnClose closable footer={null}

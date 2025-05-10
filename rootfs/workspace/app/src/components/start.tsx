@@ -72,8 +72,8 @@ export default class Start extends React.PureComponent<Props> {
       return
     }
     // 显示小程序二维码
-    await timer.sleep(1500)
-    this.setState({modalVisible2: true})
+    // await timer.sleep(1500)
+    // this.setState({modalVisible2: true})
   }
   render() {
     return (

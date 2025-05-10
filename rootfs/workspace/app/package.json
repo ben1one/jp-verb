@@ -59,11 +59,12 @@
   },
   "scripts": {
     "start": "NODE_OPTIONS=--openssl-legacy-provider node scripts/start.js",
-    "build": "NODE_OPTIONS=--openssl-legacy-provider node scripts/build.js",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider node scripts/build.js && npm run postbuild",
     "test": "node scripts/test.js",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public -c .storybook",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "postbuild": "cp -r build ../../../docs"
   },
   "eslintConfig": {
     "extends": "react-app"

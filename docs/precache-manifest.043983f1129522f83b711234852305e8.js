@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e5d23a467f52aa292122f8aeb9fcba8",
+    "revision": "f32915d038a6000b0a42e58ffddda254",
     "url": "/jp-verb/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jp-verb/static/js/4.ea782fe7.chunk.js"
   },
   {
-    "revision": "05708ed176005b0a5f13",
-    "url": "/jp-verb/static/js/main.844090d6.chunk.js"
+    "revision": "8dfbd41ca8613744dc07",
+    "url": "/jp-verb/static/js/main.a43b03a4.chunk.js"
   },
   {
     "revision": "8d4effbb85cf51c89b75",
